@@ -1,0 +1,2 @@
+# welcome-resource
+Let’s put these concepts into practice by building our first workflow. In this tutorial we will be:  Building a resource. A new resource will let you incorporate existing code into the workflow. Writing templates that utilize resources to create in the step of a workflow. We could create a very minimalistic workflow without using resources, but we would miss out on what makes Quantum Engine powerful: sharing reusable templates and source code. We will start by showing you how to build your own resource.
